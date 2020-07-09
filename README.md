@@ -1,3 +1,5 @@
 # National-Gallery
-Most Basic CSS site
+Basic CSS site
+
 Build with HTML and CSS.
+css transition, flex-box
